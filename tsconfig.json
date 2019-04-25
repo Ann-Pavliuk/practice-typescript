@@ -1,0 +1,10 @@
+{
+    "compilerOptions": {
+        "target": "es5",
+        "module": "es6",
+        "noImplicitAny": true,
+        "outDir": "dist",
+        "jsx": "react",
+        "allowJs": true
+    }
+}
